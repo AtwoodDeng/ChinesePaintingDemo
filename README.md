@@ -1,7 +1,7 @@
 # Chinese Painting Visual Effect Demo
 This is a demo for Chinese Painting Visual Effect in Unity.
 
-![image](https://github.com/AtwoodDeng/ChinesePaintingDemo/README/InkPaintingChicken.jpg)
+![image](https://github.com/AtwoodDeng/ChinesePaintingDemo/blob/master/README/InkPaintingChicken.jpg)
 
 Tutorial:
 https://zhuanlan.zhihu.com/p/25346977
